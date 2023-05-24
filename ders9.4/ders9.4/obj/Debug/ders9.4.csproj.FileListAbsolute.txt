@@ -1,0 +1,10 @@
+C:\Users\halid\source\repos\ders9.4\ders9.4\bin\Debug\ders9.4.exe.config
+C:\Users\halid\source\repos\ders9.4\ders9.4\bin\Debug\ders9.4.exe
+C:\Users\halid\source\repos\ders9.4\ders9.4\bin\Debug\ders9.4.pdb
+C:\Users\halid\source\repos\ders9.4\ders9.4\obj\Debug\ders9.4.csproj.AssemblyReference.cache
+C:\Users\halid\source\repos\ders9.4\ders9.4\obj\Debug\ders9._4.Form1.resources
+C:\Users\halid\source\repos\ders9.4\ders9.4\obj\Debug\ders9._4.Properties.Resources.resources
+C:\Users\halid\source\repos\ders9.4\ders9.4\obj\Debug\ders9.4.csproj.GenerateResource.cache
+C:\Users\halid\source\repos\ders9.4\ders9.4\obj\Debug\ders9.4.csproj.CoreCompileInputs.cache
+C:\Users\halid\source\repos\ders9.4\ders9.4\obj\Debug\ders9.4.exe
+C:\Users\halid\source\repos\ders9.4\ders9.4\obj\Debug\ders9.4.pdb
